@@ -1,0 +1,4 @@
+trades/
+.ipynb_checkpoints/
+__pycache__/
+*.md~
